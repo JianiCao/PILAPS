@@ -1,0 +1,36 @@
+defaults:
+  - _self_
+
+debug: false
+
+model:
+  backend: local
+  model_name: gemini-2.5-pro
+  short_name: gemini2.5pro
+  api_key: ${oc.env:GEMINI_API_KEY,null}
+  base_url: null
+  model_path: null
+  cache_dir: models/
+  device: auto
+  torch_dtype: auto
+  load_in_4bit: false
+  load_in_8bit: false
+  max_tokens: 1024
+  temperature: 0.0
+  top_p: 1.0
+  extra_body: {}
+
+dataset:
+  dataset_type: constructed
+  language: EN
+  task: null
+  data_path: null
+  shuffle_seed: 42
+  root_dir: .
+
+prompt:
+  prompt_type: baseline
+  prompt_ver: 0
+
+output:
+  results_dir: src/results

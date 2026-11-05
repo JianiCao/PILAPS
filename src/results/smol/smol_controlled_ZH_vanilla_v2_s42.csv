@@ -1,0 +1,166 @@
+item_id,task,language,raw_output,parsed_prediction,parsed_prediction_type,gold_label,gold_label_type
+1,Coherence,ZH,1. 连贯,1,Correct,1,Correct
+2,Coherence,ZH,2. 不连贯  这段文本描述了吴绮琪收到了很多邮件，但并没有说明这些邮件是关于什么内容的，或者这些邮件是如何与她的生日相关的。因此，这段文本缺乏连贯性。,2,IncorrectIncoherent,1,Correct
+3,Coherence,ZH,2. 连贯  这句话虽然简短，但描述了一个连贯的场景：一辆卡车驶过房子，导致碗碟发出响声。这种连贯性来自于事件的顺序和逻辑关系。卡车的驶过是事件的起因，而碗碟的响声是事件的结果。因此，这些文本构成了一段连贯的故事。,2,Correct,2,Correct
+4,Coherence,ZH,2. 不连贯  这两个句子看起来像是独立的陈述，没有明显的逻辑联系。第一个句子描述了灯一直亮着，第二个句子描述了车发动不起来。它们没有明显的因果关系或连贯的叙述。,2,IncorrectIncoherent,1,Correct
+5,Coherence,ZH,2. 不连贯  因为文本中只描述了林心怡的行为和请求，但没有提供任何关于医生是否真的来看病的信息，或者其他与故事发展相关的细节。因此，无法判断这是否构成连贯的故事。,2,IncorrectIncoherent,1,Correct
+6,Coherence,ZH,1. 连贯,1,Correct,1,Correct
+7,Coherence,ZH,2. 不连贯  吴蕾的车上周完全撞毁了，这说明她可能发生了交通事故。然而，接着她去了银行，希望能得到一笔贷款，这两个事件之间没有明显的逻辑连接。,2,IncorrectIncoherent,1,Correct
+8,Coherence,ZH,1. 连贯,1,Correct,1,Correct
+9,Coherence,ZH,2. 连贯,2,Correct,2,Correct
+10,Coherence,ZH,1. 连贯,1,Correct,1,Correct
+11,Coherence,ZH,1. 连贯  薇薇正在计划她的第一次欧洲之旅，她把自己最喜欢的泳衣放进了包里，这说明她可能计划在欧洲的某个地方游泳或享受海滩活动。,1,Correct,1,Correct
+12,Coherence,ZH,2. 不连贯  这两个句子描述了周强被椅子绊倒，撞到头，以及一面镜子掉在地板上摔碎了。但是，这两个事件之间没有明确的逻辑连接。没有提到周强是否在镜子附近，或者镜子是否与周强的撞击有关。因此，这两个句子看起来像是独立的事件描述，没有形成连贯的故事。,2,IncorrectIncoherent,1,Correct
+13,Coherence,ZH,2. 不连贯  这两个句子之间没有明显的逻辑联系。王华参议员想从事公司法业务和他决定不再竞选连任是两个独立的事件，没有直接的关联。,2,IncorrectIncoherent,1,Correct
+14,Coherence,ZH,2. 不连贯  这两个句子之间没有明显的逻辑连接。第一个句子描述了小杰对哥哥李明的愤怒，而第二个句子描述了小杰身上有淤青，这两者之间没有直接的关系。,2,IncorrectIncoherent,1,Correct
+15,Coherence,ZH,2. 连贯  这段文本描述了一个场景：暴风雨正在逼近城市，桌子上的文件被吹落到地板上。虽然文本很简短，但它构成了一段连贯的描述，说明了一个事件的发生过程。,2,Correct,2,Correct
+16,Coherence,ZH,2. 连贯,2,Correct,2,Correct
+17,Coherence,ZH,1. 连贯  李静每天单程通勤一小时到她的办公室，她打开报纸查看公寓房源，这些描述构成了一段连贯的故事。,1,Correct,1,Correct
+18,Coherence,ZH,2. 不连贯  这两个句子之间没有明显的逻辑连接。第一个句子提到陈明记得王丽的重要日子，第二个句子陈明花了整整一天时间去买礼物，但并没有说明王丽的重要日子是什么，也没有说明陈明买礼物的目的。因此，这两个句子看起来像是独立的陈述，没有形成连贯的故事。,2,IncorrectIncoherent,1,Correct
+19,Coherence,ZH,2. 不连贯  这两个句子之间没有明显的逻辑联系。第一个句子描述了张伟在阅读手稿复印件，而第二个句子描述了他对秘书大喊大叫。没有提到张伟为什么会对秘书大喊大叫，或者这与阅读手稿复印件有什么关系。因此，这两个句子不构成连贯的故事。,2,IncorrectIncoherent,1,Correct
+20,Coherence,ZH,2. 连贯  这段文本描述了一个连贯的事件：小雅蹭到了一张桌子上的花瓶，导致水洒到了地毯上。,2,Correct,2,Correct
+21,Coherence,ZH,2. 不连贯  这两个句子之间没有明显的逻辑联系。小红的考试即将开始和朋友记得她的生日没有直接的关联。,2,Correct,2,Correct
+22,Coherence,ZH,2. 连贯,2,IncorrectCoherent,1,Correct
+23,Coherence,ZH,2. 连贯  王博期待着长假，他恳求他的家庭医生立刻过来。这个句子虽然简短，但已经构成了一个完整的请求场景，说明王博希望医生尽快来看他。因此，答案是2。,2,IncorrectCoherent,1,Correct
+24,Coherence,ZH,2. 连贯,2,IncorrectCoherent,1,Correct
+25,Coherence,ZH,2. 连贯,2,IncorrectCoherent,1,Correct
+26,Coherence,ZH,2. 连贯  这两个句子虽然看起来有些不连贯，但可以理解为一个连贯的故事。狗跑向小女孩，可能是为了得到她的冰淇淋，或者狗的主人让它去接小女孩。然后狗去银行，可能是为了得到贷款来买冰淇淋。因此，这两个句子构成了一段连贯的故事。,2,IncorrectCoherent,1,Correct
+27,Coherence,ZH,2. 连贯  林芳时不时地旷英语课，她感到心烦，突然哭了起来。这个句子虽然简短，但已经构成了一个完整的故事片段，描述了林芳时在课堂上不专心学习的行为，导致她感到心烦，最终情绪失控，哭了起来。因此，答案选项2是正确的。,2,IncorrectCoherent,1,Correct
+28,Coherence,ZH,2. 不连贯  这两个句子之间没有明显的连贯性。第一个句子描述了张强坐在班上一个漂亮的女孩旁边，而第二个句子描述了这个女孩被送往医院昏迷不醒。两个事件之间没有明显的逻辑联系，无法形成连贯的故事。,2,Correct,2,Correct
+29,Coherence,ZH,2. 不连贯  这两个句子之间没有明显的逻辑联系。小薇正在计划她的第一次欧洲之旅，这是一个关于旅行的主题，而后面一句关于镜子掉碎的事件似乎与主题无关。,2,Correct,2,Correct
+30,Coherence,ZH,2. 不连贯  这两个句子之间没有明显的逻辑联系。首先，张强被椅子绊倒，撞到了头，这是一个事件描述。然后，张强决定不再竞选连任，这是一个决策描述。两者之间没有直接的因果关系或连贯的叙述。,2,Correct,2,Correct
+31,Coherence,ZH,2. 不连贯  这两个句子看起来像是两个独立的句子，没有明显的逻辑连接。第一个句子描述了王强和他的朋友在池塘边发生了争吵，而第二个句子描述了他的车开得越来越危险。没有明确的语法或逻辑连接将这两个句子联系起来。,2,Correct,2,Correct
+32,Coherence,ZH,2. 不连贯  这两个句子之间没有明显的逻辑联系。暴风雨的到来和男孩身体上的淤青没有直接的关联。,2,Correct,2,Correct
+33,Coherence,ZH,2. 连贯  这段文本描述了张阳考虑了多种高科技职业，并且在浑身湿透的情况下返回家中换衣服。虽然文本简短，但描述的事件之间存在连贯性，说明张阳在考虑职业的同时遇到了雨水，导致他浑身湿透。因此，答案是2。,2,IncorrectCoherent,1,Correct
+34,Coherence,ZH,2. 连贯,2,IncorrectCoherent,1,Correct
+35,Coherence,ZH,2. 不连贯  这两个句子之间没有明显的逻辑联系。第一个句子提到安娜已经有几个星期没来上学了，而第二个句子则是关于桌上的纸被吹到了地上的事件。两者之间没有直接的关联。,2,Correct,2,Correct
+36,Coherence,ZH,2. 连贯  这两个句子构成了一段连贯的故事。第一个句子描述了张华的工作态度，第二个句子则描述了他在购物的活动。虽然这两个句子之间没有明显的逻辑连接，但它们共同构成了一个关于张华忙碌生活的片段。因此，答案是2。,2,IncorrectCoherent,1,Correct
+37,Coherence,ZH,2. 连贯  这段文本虽然简短，但描述了陈芳在上班前的一些活动，虽然没有明确说明这些活动之间的连续性，但描述的事件本身是连贯的。陈芳上班前没来得及吃早餐，然后进行了一场激烈的讨论，直到午夜。这些事件之间的时间顺序是连贯的。,2,IncorrectCoherent,1,Correct
+38,Coherence,ZH,2. 不连贯  这两个句子看起来像是独立的陈述，没有明显的逻辑联系。第一个句子描述了周莉的通勤情况，而第二个句子描述的是水洒在地毯上的情况，这两者没有直接的关联。因此，这两个句子不构成连贯的故事。,2,Correct,2,Correct
+39,Coherence,ZH,2. 连贯  李明读了他手稿的副本，他慌乱地在药柜里翻找着。这个句子虽然简短，但已经构成了一个完整的动作描述，说明李明在阅读手稿后，开始寻找药柜中的物品。因此，答案是2。,2,IncorrectCoherent,1,Correct
+40,Coherence,ZH,2. 连贯  静怡碰到了一张放着花瓶的桌子，这可能是一个意外或偶然的场景。然而，接下来的描述“她决定更加努力学习以赶上进度”与之前的描述没有直接的逻辑联系。然而，根据题目要求，答案选项中给出了“连贯”和“不连贯”，而“静怡碰到了一张放着花瓶的桌子”和“她决定更加努力学习以赶上进度”虽然没有直接的逻辑联系，但它们可能构成一个连贯的故事，因为静怡可能在花瓶桌子旁边思考学习问题，或者花瓶桌子可能是她学习的地方的一部分。因此，根据题目给出的选项，答案选2。,2,IncorrectCoherent,1,Correct
+1,Deceits,ZH,4. 他不想因为没有看他妈妈给他的书而惹他妈妈不高兴。,4,IncorrectNonLiteralSocialConvention,1,CorrectNonLiteral
+2,Deceits,ZH,4. 他非常喜欢这份礼物。,4,IncorrectLiteral,2,CorrectNonLiteral
+3,Deceits,ZH,4. 小伟认为是狗把花瓶撞倒的。,4,IncorrectLiteral,3,CorrectNonLiteral
+4,Deceits,ZH,3. 他正肚子疼的厉害。,3,IncorrectLiteral,2,CorrectNonLiteral
+5,Deceits,ZH,4. 她非常喜欢金鱼。,4,IncorrectLiteral,2,CorrectNonLiteral
+6,Deceits,ZH,4. 他喜欢阿沛的派。,4,IncorrectLiteral,3,CorrectNonLiteral
+7,Deceits,ZH,3. 莹莹不想承认她无意中听到了妈妈的话，以免破坏了惊喜。,3,CorrectNonLiteral,3,CorrectNonLiteral
+8,Deceits,ZH,3. 他意识到老板也在比赛现场并看到了他。,3,IncorrectNonLiteralLexicalOverlap,1,CorrectNonLiteral
+9,Deceits,ZH,"2. 他不想表现出对礼物失望,以免让姑姑不开心。",2,CorrectNonLiteral,2,CorrectNonLiteral
+10,Deceits,ZH,4. 对建国来说，友谊比一辆坏掉的遥控汽车更重要。,4,CorrectNonLiteral,4,CorrectNonLiteral
+11,Deceits,ZH,"4. 他看到心怡对这个发型很兴奋,不想破坏她的好心情。",4,CorrectNonLiteral,4,CorrectNonLiteral
+12,Deceits,ZH,2. 晓芳觉得敏芝的笑话非常幽默。,2,IncorrectLiteral,4,CorrectNonLiteral
+13,Deceits,ZH,4. 他想支持王磊，不想让他在以后的公开演讲中更加紧张。,4,CorrectNonLiteral,4,CorrectNonLiteral
+14,Deceits,ZH,4. 她很高兴陈明打扫了公寓，并且不在乎那张被扔掉的照片。,4,IncorrectLiteral,1,CorrectNonLiteral
+15,Deceits,ZH,4. 她很兴奋，因为她很想吃甜甜圈。,4,IncorrectLiteral,1,CorrectNonLiteral
+16,Deceits,ZH,4. 她认为与李小刚的父母共进晚餐是个好主意。,4,IncorrectLiteral,1,CorrectNonLiteral
+17,Deceits,ZH,3. 她重视他们目前的关系，不想通过讨论她过去的念头来危及它。,3,CorrectNonLiteral,3,CorrectNonLiteral
+18,Deceits,ZH,4. 丽华不想通过告诉他真相而给她男朋友增加额外的压力。,4,CorrectNonLiteral,4,CorrectNonLiteral
+19,Deceits,ZH,3. 安娜和李子峰玩得很开心。,3,IncorrectLiteral,4,CorrectNonLiteral
+20,Deceits,ZH,3. 她不想批评她朋友的母亲，以免伤害她的朋友。,3,CorrectNonLiteral,3,CorrectNonLiteral
+1,Humour,ZH,4. “那好吧，那你就不需要你的高尔夫球杆了吧？我就借它们了。”,4,CorrectNonLiteral,4,CorrectNonLiteral
+2,Humour,ZH,4. “我也不可能包治百病啊。”,4,AssociativeNonSequitur,5,CorrectNonLiteral
+3,Humour,ZH,2. 佳苑说：“四块吧，我正在减肥。”,2,CorrectNonLiteral,2,CorrectNonLiteral
+4,Humour,ZH,5,5,CorrectNonLiteral,5,CorrectNonLiteral
+5,Humour,ZH,4,4,FunnyNonSequitur,1,CorrectNonLiteral
+6,Humour,ZH,2. “其他人会在香蕉皮上滑倒的。”,2,FunnyNonSequitur,3,CorrectNonLiteral
+7,Humour,ZH,4. 陈骏霖回答说：“太好了，我准备忘掉另一半。”,4,CorrectNonLiteral,4,CorrectNonLiteral
+8,Humour,ZH,4,4,FunnyNonSequitur,1,CorrectNonLiteral
+9,Humour,ZH,"2. ""一个孤独的人。""",2,IncorrectStraightforward,4,CorrectNonLiteral
+10,Humour,ZH,3. “那要看那条鳄鱼有多凶猛了。”,3,IncorrectStraightforward,1,CorrectNonLiteral
+11,Humour,ZH,3,3,FunnyNonSequitur,5,CorrectNonLiteral
+12,Humour,ZH,3. “如果我们救不了乘客，也许我们能救下他们的行李！”,3,CorrectNonLiteral,3,CorrectNonLiteral
+13,Humour,ZH,3. 学校的校长踩到香蕉皮，在全班面前摔倒了。,3,FunnyNonSequitur,1,CorrectNonLiteral
+14,Humour,ZH,4. 说“我们都喜欢在三明治里放很多蛋黄酱。”,4,AssociativeNonSequitur,1,CorrectNonLiteral
+15,Humour,ZH,4. 来，把扫帚给我，我来教你怎么扫。,4,CorrectNonLiteral,4,CorrectNonLiteral
+16,Humour,ZH,"2. ""我的狗告诉我的。”",2,CorrectNonLiteral,2,CorrectNonLiteral
+17,Humour,ZH,5,5,CorrectNonLiteral,5,CorrectNonLiteral
+18,Humour,ZH,5. 陈珂踩到香蕉皮，滑倒了，把裤子给撕裂了。,5,FunnyNonSequitur,2,CorrectNonLiteral
+19,Humour,ZH,"4. ""我饿了。""",4,NeutralNonSequitur,1,CorrectNonLiteral
+20,Humour,ZH,4. “你怎么知道你是这里最强壮的？”,4,IncorrectStraightforward,1,CorrectNonLiteral
+1,IndirectSpeech,ZH,4. 他对衬衫起皱感到不满。,4,IncorrectLiteral,3,CorrectNonLiteral
+2,IndirectSpeech,ZH,2. 他对李娜是否应该画画有些疑虑。,2,IncorrectLiteral,1,CorrectNonLiteral
+3,IndirectSpeech,ZH,4. 欣怡的弟弟制造了很多混乱。,4,IncorrectLiteral,3,CorrectNonLiteral
+4,IndirectSpeech,ZH,2. 她希望他不要再跟她讲电影的事。,2,CorrectNonLiteral,2,CorrectNonLiteral
+5,IndirectSpeech,ZH,2. 如果佳琪想做他的朋友，她就应该停止取笑他。,2,CorrectNonLiteral,2,CorrectNonLiteral
+6,IndirectSpeech,ZH,4. 这不是他的错。,4,CorrectNonLiteral,4,CorrectNonLiteral
+7,IndirectSpeech,ZH,4. 他想让光溪给他一些饼干。,4,CorrectNonLiteral,4,CorrectNonLiteral
+8,IndirectSpeech,ZH,4. 小华对老师不公平。,4,IncorrectLiteral,2,CorrectNonLiteral
+9,IndirectSpeech,ZH,3. 他太累了，女孩们制造了很多噪音。,3,IncorrectLiteral,2,CorrectNonLiteral
+10,IndirectSpeech,ZH,3. 走在碎玻璃上是林峰喜欢的事。,3,IncorrectLiteral,1,CorrectNonLiteral
+11,IndirectSpeech,ZH,3. 他想让她去看牙医。,3,IncorrectAssociative,2,CorrectNonLiteral
+12,IndirectSpeech,ZH,3. 她想知道他是否有时间并且愿意给草坪浇水。,3,CorrectNonLiteral,3,CorrectNonLiteral
+13,IndirectSpeech,ZH,3. 他想让他挪开梯子。,3,CorrectNonLiteral,3,CorrectNonLiteral
+14,IndirectSpeech,ZH,1. 他想知道他们的意见。,1,IncorrectLiteral,2,CorrectNonLiteral
+15,IndirectSpeech,ZH,2. 她怀疑有人站在他们的门口。,2,IncorrectLiteral,4,CorrectNonLiteral
+16,IndirectSpeech,ZH,3. 他想向张华描述自己的身体状况。,3,IncorrectLiteral,2,CorrectNonLiteral
+17,IndirectSpeech,ZH,3. 他因为他们喝不了啤酒而感到失望。,3,IncorrectLiteral,2,CorrectNonLiteral
+18,IndirectSpeech,ZH,4. 她想让李华清理这个烂摊子。,4,CorrectNonLiteral,4,CorrectNonLiteral
+19,IndirectSpeech,ZH,3. 她想让王威把垃圾带出去扔掉。,3,CorrectNonLiteral,3,CorrectNonLiteral
+20,IndirectSpeech,ZH,4. 他想让王鹏关上纱门。,4,CorrectNonLiteral,4,CorrectNonLiteral
+1,Irony,ZH,3. 晶晶需要买一条短一点的连衣裙。,3,CorrectNonLiteral,3,CorrectNonLiteral
+2,Irony,ZH,3. 雪峰在思翰说话时有注意听。,3,IncorrectLiteral,1,CorrectNonLiteral
+3,Irony,ZH,2. 王磊的盖帽令人印象深刻。,2,IncorrectAssociate,1,CorrectNonLiteral
+4,Irony,ZH,4. 明轩很粗心。,4,CorrectNonLiteral,4,CorrectNonLiteral
+5,Irony,ZH,4. 建国去海滩的主意糟透了。,4,CorrectNonLiteral,4,CorrectNonLiteral
+6,Irony,ZH,1. 他不想听孩子们的争吵。,1,CorrectNonLiteral,1,CorrectNonLiteral
+7,Irony,ZH,3. 比赛非常精彩。,3,IncorrectLiteral,4,CorrectNonLiteral
+8,Irony,ZH,3. 马克不是一个好球员。,3,CorrectNonLiteral,3,CorrectNonLiteral
+9,Irony,ZH,2. 建国的房间还是很乱。,2,CorrectNonLiteral,2,CorrectNonLiteral
+10,Irony,ZH,4. 他很高兴欣怡能来参加派对。,4,IncorrectLiteral,1,CorrectNonLiteral
+11,Irony,ZH,4. 这个学生很聪明。,4,IncorrectLiteral,1,CorrectNonLiteral
+12,Irony,ZH,2. 太热了。,2,IncorrectLiteral,1,CorrectNonLiteral
+13,Irony,ZH,1. 他对他的作品很满意。,1,IncorrectLiteral,2,CorrectNonLiteral
+14,Irony,ZH,3. 他对这份工作机会感到失望。,3,CorrectNonLiteral,3,CorrectNonLiteral
+15,Irony,ZH,4. 照看孩子是一次愉快的经历。,4,CorrectNonLiteral,4,CorrectNonLiteral
+16,Irony,ZH,3. 张娜的约会很无聊。,3,CorrectNonLiteral,3,CorrectNonLiteral
+17,Irony,ZH,4. 他们的同事品味很好。,4,IncorrectNonSequitur,3,CorrectNonLiteral
+18,Irony,ZH,3. 这是一个友好的社区。,3,IncorrectLiteral,2,CorrectNonLiteral
+19,Irony,ZH,2. 佳怡能够看到比赛。,2,IncorrectAssociate,3,CorrectNonLiteral
+20,Irony,ZH,4. 李晨的演讲主题引人入胜。,4,IncorrectAssociate,1,CorrectNonLiteral
+21,Irony,ZH,1. 张嘉佳不是一位好舞者。,1,CorrectNonLiteral,1,CorrectNonLiteral
+22,Irony,ZH,3. 王浩跑步不好。,3,IncorrectLiteral,1,CorrectNonLiteral
+23,Irony,ZH,2. 他对新园丁很满意。,2,IncorrectLiteral,3,CorrectNonLiteral
+24,Irony,ZH,4. 蒹莉没有为考试做好准备。,4,CorrectNonLiteral,4,CorrectNonLiteral
+25,Irony,ZH,2. 他喜欢她选择的衣服。,2,IncorrectLiteral,3,CorrectNonLiteral
+1,Maxims,ZH,"2. 他对即将到来的日本之行感到兴奋,不想谈论其他任何事情。",2,IncorrectLiteral,4,CorrectNonLiteral
+2,Maxims,ZH,3. 张明为他所做的粉刷工作感到自豪。,3,IncorrectLiteral,1,CorrectNonLiteral
+3,Maxims,ZH,1. 她不想讨论李娜提出的话题。,1,CorrectNonLiteral,1,CorrectNonLiteral
+4,Maxims,ZH,3. 他很感激她提供的啤酒和薯片。,3,IncorrectLiteral,2,CorrectNonLiteral
+5,Maxims,ZH,4. 陈浩俊对林芳作为财务经理的评价非常高。,4,IncorrectLiteral,3,CorrectNonLiteral
+6,Maxims,ZH,1. 子涵的妈妈知道文成住在法国某个地方。,1,IncorrectLiteral,4,CorrectNonLiteral
+7,Maxims,ZH,4. 婚礼的重点不在于食物。,4,IncorrectAssociate,3,CorrectNonLiteral
+8,Maxims,ZH,3. 雅丽为她生日时钱小钟送她的新杯子感到骄傲。,3,IncorrectAssociate,1,CorrectNonLiteral
+9,Maxims,ZH,3. 李芳不知道她想买哪种类型的鞋子。,3,CorrectNonLiteral,3,CorrectNonLiteral
+10,Maxims,ZH,3. 他太兴奋了，此刻不想谈论这个。,3,IncorrectAssociate,2,CorrectNonLiteral
+11,Maxims,ZH,4. 张华的妻子在做一些科学实验，而不是做饭。,4,IncorrectLiteral,3,CorrectNonLiteral
+12,Maxims,ZH,2. 思雨认为早餐是一天中最重要的一餐。,2,IncorrectAssociate,3,CorrectNonLiteral
+13,Maxims,ZH,3. 王教授觉得这位女演员唱得很好。,3,IncorrectLiteral,1,CorrectNonLiteral
+14,Maxims,ZH,3. 美玲认为在这场辩论中，统计信息毫无用处。,3,CorrectNonLiteral,3,CorrectNonLiteral
+15,Maxims,ZH,2. 他认为雨桐没有理由相信这些陌生人很不错。,2,CorrectNonLiteral,2,CorrectNonLiteral
+16,Maxims,ZH,4. 王杰可以给张丽一些他太空探险而获得的钱。,4,IncorrectLiteral,2,CorrectNonLiteral
+17,Maxims,ZH,4. 黄梦洁知道张先生的孩子是幼儿园小孩。,4,IncorrectAssociate,3,CorrectNonLiteral
+18,Maxims,ZH,4. 心梅的爸爸对志华的天真印象深刻。,4,IncorrectAssociate,3,CorrectNonLiteral
+19,Maxims,ZH,4. 婧妍不想让李怀瑾知道她的地址。,4,CorrectNonLiteral,4,CorrectNonLiteral
+20,Maxims,ZH,4. 晓彤计划今年夏天投入大量时间阅读。,4,CorrectNonLiteral,4,CorrectNonLiteral
+1,Metaphor,ZH,5. 这个小镇就是一个烟囱。,5,IncorrectLiteral,4,CorrectNonLiteral
+2,Metaphor,ZH,5. 子墨和妻子非常相爱。,5,CorrectNonLiteral,5,CorrectNonLiteral
+3,Metaphor,ZH,3. 那些投资人和松鼠一样喜欢捡坚果。,3,IncorrectPlausibleLiteral,2,CorrectNonLiteral
+4,Metaphor,ZH,5. 他的女朋友行为举止不太自然。,5,CorrectNonLiteral,5,CorrectNonLiteral
+5,Metaphor,ZH,3. 他们的孩子吃太多糖了。,3,IncorrectPlausibleLiteral,2,CorrectNonLiteral
+6,Metaphor,ZH,3. 那位女士戴着一些设计成星星形状的珠宝。,3,IncorrectPlausibleLiteral,4,CorrectNonLiteral
+7,Metaphor,ZH,2. 那个模特在时装秀上非常出众。,2,CorrectNonLiteral,2,CorrectNonLiteral
+8,Metaphor,ZH,5. 主席是全国每个人的长辈。,5,IncorrectLiteral,4,CorrectNonLiteral
+9,Metaphor,ZH,1. 那是一个非常浪漫的夜晚。,1,CorrectNonLiteral,1,CorrectNonLiteral
+10,Metaphor,ZH,5. 蕾蕾顺利完成了演讲。,5,CorrectNonLiteral,5,CorrectNonLiteral
+11,Metaphor,ZH,5. 他们的女儿对弟弟们太强势了。,5,IncorrectNonLiteral,2,CorrectNonLiteral
+12,Metaphor,ZH,5. 新招的那个人很擅长同时处理多件事情。,5,CorrectNonLiteral,5,CorrectNonLiteral
+13,Metaphor,ZH,4. 那家商场乱成一团。,4,CorrectNonLiteral,4,CorrectNonLiteral
+14,Metaphor,ZH,4. 舞者在舞台上轻盈飘逸地舞动。,4,CorrectNonLiteral,4,CorrectNonLiteral
+15,Metaphor,ZH,1. 小芳不流露任何情感。,1,CorrectNonLiteral,1,CorrectNonLiteral
+16,Metaphor,ZH,5. 他们隔壁真的住着一只羊。,5,IncorrectLiteral,4,CorrectNonLiteral
+17,Metaphor,ZH,3. 这本书有很多页都缺损了一部分。,3,IncorrectLiteral,4,CorrectNonLiteral
+18,Metaphor,ZH,2. 小明背的东西太多了。,2,IncorrectLiteral,1,CorrectNonLiteral
+19,Metaphor,ZH,1. 这位新销售经理非常缺乏经验。,1,CorrectNonLiteral,1,CorrectNonLiteral
+20,Metaphor,ZH,5. 他的未婚妻长得很甜美。,5,IncorrectNonSequitur,1,CorrectNonLiteral

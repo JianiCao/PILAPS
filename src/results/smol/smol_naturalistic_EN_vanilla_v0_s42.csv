@@ -1,0 +1,61 @@
+item_id,task,language,raw_output,parsed_prediction,parsed_prediction_type,gold_label,gold_label_type
+1,Humour,EN,5. I accept the job.,5,CorrectNonLiteral,5,CorrectNonLiteral
+2,Humour,EN,5. You really should separate your colours from your whites.,5,IncorrectStraightforward,3,CorrectNonLiteral
+3,Humour,EN,"5. Did I just swallow one of the cards?   This joke is funny because it plays on the idea of Rachel's friends making fun of her for losing at the card game. The punch line suggests that Rachel might have accidentally swallowed a card, which is a humorous and absurd way to explain her losing streak.",5,NeutralNonSequitur,4,CorrectNonLiteral
+4,Humour,EN,3. At least you two never moved in together.,3,AssociativeNonSequitur,1,CorrectNonLiteral
+5,Humour,EN,1. you have been really loud all evening.,1,NeutralNonSequitur,4,CorrectNonLiteral
+6,Humour,EN,3. I suppose that is a fair compromise then.,3,IncorrectStraightforward,2,CorrectNonLiteral
+7,Humour,EN,"5. In any case, you are welcome to take some.",5,NeutralNonSequitur,3,CorrectNonLiteral
+8,Humour,EN,5. Being childish has nothing to do with intelligence!,5,AssociativeNonSequitur,2,CorrectNonLiteral
+9,Humour,EN,"3. Oh, You think I'm stupid!",3,CorrectNonLiteral,3,CorrectNonLiteral
+10,Humour,EN,4. Are you saying four years together wasn't worth it?,4,IncorrectStraightforward,3,CorrectNonLiteral
+11,Humour,EN,4. Peanut allergies are actually one of the most common food allergies.,4,AssociativeNonSequitur,2,CorrectNonLiteral
+12,Humour,EN,4. Archimedes would be so proud.,4,CorrectNonLiteral,4,CorrectNonLiteral
+13,Humour,EN,5. Car sickness has always been a problem for me.,5,NeutralNonSequitur,1,CorrectNonLiteral
+14,Humour,EN,5. You should probably have something with carbs after that kind of session.,5,AssociativeNonSequitur,2,CorrectNonLiteral
+15,Humour,EN,4. You'd have to speak to the manager about that.,4,IncorrectStraightforward,5,CorrectNonLiteral
+16,Humour,EN,"5. Gentlemen, to the sewing machines.",5,CorrectNonLiteral,5,CorrectNonLiteral
+17,Humour,EN,4. I once got a real nurse to check my pulse at a party. She was not impressed.,4,FunnyNonSequitur,2,CorrectNonLiteral
+18,Humour,EN,4. Just ask them about their interests and listen carefully.,4,IncorrectStraightforward,1,CorrectNonLiteral
+19,Humour,EN,3. I once saw a guy that size eat an entire buffet by himself.,3,FunnyNonSequitur,4,CorrectNonLiteral
+20,Humour,EN,4. Face to face confrontations rarely go well without preparation.,4,AssociativeNonSequitur,5,CorrectNonLiteral
+1,Irony,EN,3. Tom's sweat is not noticeable at all.,3,IncorrectLiteral,2,CorrectNonLiteral
+2,Irony,EN,3. Tom is the most outstanding scientist Mark knows.,3,IncorrectLiteral,1,CorrectNonLiteral
+3,Irony,EN,4. Sarah appreciates Amy's honesty about her appearance.,4,IncorrectAssociate,2,CorrectNonLiteral
+4,Irony,EN,4. Tom has been following the latest research on monopoles.,4,IncorrectAssociate,3,CorrectNonLiteral
+5,Irony,EN,3. The service industry has many hidden complexities.,3,IncorrectAssociate,4,CorrectNonLiteral
+6,Irony,EN,4. Tom successfully made Alex's job sound interesting.,4,IncorrectLiteral,3,CorrectNonLiteral
+7,Irony,EN,4. Jewish mothers are actually overprotective of their sons.,4,CorrectNonLiteral,4,CorrectNonLiteral
+8,Irony,EN,1. The situation is likely to cause Tom a great deal of trouble.,1,CorrectNonLiteral,1,CorrectNonLiteral
+9,Irony,EN,4. Ben is enthusiastic about getting a massage.,4,IncorrectLiteral,3,CorrectNonLiteral
+10,Irony,EN,3. Tom is impressed by how advanced his mother's religious group is.,3,IncorrectLiteral,2,CorrectNonLiteral
+11,Irony,EN,4. Alex sympathises with Sarah's difficult situation.,4,IncorrectAssociate,3,CorrectNonLiteral
+12,Irony,EN,3. Mark is eager to learn more about the party.,3,IncorrectLiteral,2,CorrectNonLiteral
+13,Irony,EN,2. Sarah is frustrated by Tom's hesitant driving.,2,CorrectNonLiteral,2,CorrectNonLiteral
+14,Irony,EN,4. Tom is defending his aunt even though he only got a sweater.,4,IncorrectAssociate,3,CorrectNonLiteral
+15,Irony,EN,3. Tom thinks Mark's choice of gift is very inappropriate.,3,CorrectNonLiteral,3,CorrectNonLiteral
+16,Irony,EN,3. Sarah is happy that Alex lets her manage all the household chores.,3,IncorrectAssociate,4,CorrectNonLiteral
+17,Irony,EN,4. Sarah is impressed by Mark's quick wit.,4,IncorrectAssociate,3,CorrectNonLiteral
+18,Irony,EN,1. Mark is worried he is not smart enough for the task.,1,IncorrectLiteral,3,CorrectNonLiteral
+19,Irony,EN,1. Sarah thinks Mark is in no position to criticise how others shop for clothes.,1,CorrectNonLiteral,1,CorrectNonLiteral
+20,Irony,EN,1. Tom is mocking Mark for using robots as a substitute for real relationships.,1,CorrectNonLiteral,1,CorrectNonLiteral
+1,Maxims,EN,3. Mark is expressing his attraction to Sarah by imagining a future with her.,3,CorrectNonLiteral,3,CorrectNonLiteral
+2,Maxims,EN,4. Tom wants to carve the dinner time into stone so that Sarah does not forget it.,4,IncorrectLiteral,2,CorrectNonLiteral
+3,Maxims,EN,4. Tom is congratulating Mark on his successful date.,4,IncorrectLiteral,3,CorrectNonLiteral
+4,Maxims,EN,3. Mark is pleased about the coincidence of their timing.,3,IncorrectLiteral,4,CorrectNonLiteral
+5,Maxims,EN,3. Sarah is actually expressing that she would rather go inside than stay on the floor.,3,CorrectNonLiteral,3,CorrectNonLiteral
+6,Maxims,EN,3. She is correcting Mr. Johnson's assumption that she is too young to have an adult son.,3,IncorrectLiteral,4,CorrectNonLiteral
+7,Maxims,EN,4. Tom comes to this restaurant every Tuesday and is already familiar with the menu.,4,IncorrectLiteral,2,CorrectNonLiteral
+8,Maxims,EN,4. Mark thinks that the American education system has failed too many students.,4,IncorrectLiteral,1,CorrectNonLiteral
+9,Maxims,EN,2. Sarah is refusing to make any extra effort for a drink that is just a can of coke.,2,CorrectNonLiteral,2,CorrectNonLiteral
+10,Maxims,EN,4. Tom thinks that he and Mark should resolve their conflict like Galileo and the Pope.,4,IncorrectNonLiteral,2,CorrectNonLiteral
+11,Maxims,EN,4. Tom thinks that Sarah's singing is very poor.,4,CorrectNonLiteral,4,CorrectNonLiteral
+12,Maxims,EN,1. Tom is correcting Mark because he wants to make sure they do not miss the symposium.,1,IncorrectLiteral,4,CorrectNonLiteral
+13,Maxims,EN,4. Tom is making excuses to avoid going to Sarah's future shows.,4,CorrectNonLiteral,4,CorrectNonLiteral
+14,Maxims,EN,2. Mark thinks that Betty Crocker should make measuring cups that are more clearly labelled.,2,IncorrectAssociate,1,CorrectNonLiteral
+15,Maxims,EN,2. Tom is annoyed that Kevin has corrected Mark in front of everyone.,2,IncorrectAssociate,4,CorrectNonLiteral
+16,Maxims,EN,4. Mark feels worthless and thinks there is no point in anyone taking care of him.,4,CorrectNonLiteral,4,CorrectNonLiteral
+17,Maxims,EN,3. Kevin is worried that his fingers are permanently damaged from the heavy lifting.,3,IncorrectNonLiteral,2,CorrectNonLiteral
+18,Maxims,EN,2. Mark is asking Sarah to correct what she tells her friends about his profession.,2,IncorrectNonLiteral,1,CorrectNonLiteral
+19,Maxims,EN,1. Sarah is expressing her frustration that Kevin has completely missed the point of her threat.,1,CorrectNonLiteral,1,CorrectNonLiteral
+20,Maxims,EN,2. Mark is planning to wait until his allergic reaction gets worse before seeking help.,2,IncorrectLiteral,1,CorrectNonLiteral

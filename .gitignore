@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Hydra / runs
+outputs/
+multirun/
+.hydra/
+
+# Models downloaded by transformers
+models/
+
+# Dataset files are distributed separately (see README)
+src/data/*.csv
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Secrets
+.env

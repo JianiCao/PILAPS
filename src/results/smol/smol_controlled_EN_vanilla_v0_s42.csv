@@ -1,0 +1,166 @@
+item_id,task,language,raw_output,parsed_prediction,parsed_prediction_type,gold_label,gold_label_type
+1,Coherence,EN,1. Coherent,1,Correct,1,Correct
+2,Coherence,EN,1. Coherent,1,Correct,1,Correct
+3,Coherence,EN,"2. Coherent  The two sentences form a coherent story because they describe a sequence of events that logically follow each other. The first sentence sets the scene by mentioning a truck driving by the house, and the second sentence explains the effect of the truck's movement on the dishes, causing them to rattle. This sequence of events is clear and makes sense in the context of a story.",2,Correct,2,Correct
+4,Coherence,EN,"2. Incoherent  The two sentences do not form a coherent story because there is no logical connection between the state of the lights being on and the car not starting. The first sentence describes a situation involving lights, while the second sentence describes a problem with a car. There is no clear cause-and-effect relationship or any other logical connection between the two statements.",2,IncorrectIncoherent,1,Correct
+5,Coherence,EN,1. Coherent,1,Correct,1,Correct
+6,Coherence,EN,1. Coherent,1,Correct,1,Correct
+7,Coherence,EN,1. Coherent,1,Correct,1,Correct
+8,Coherence,EN,1. Coherent,1,Correct,1,Correct
+9,Coherence,EN,"2. Coherent  The two sentences form a coherent story because they describe a sequence of events: a dog runs toward a little girl eating ice cream, knocking her down, and she shouts for her mother.",2,Correct,2,Correct
+10,Coherence,EN,1. Coherent,1,Correct,1,Correct
+11,Coherence,EN,1. Coherent,1,Correct,1,Correct
+12,Coherence,EN,1. Coherent,1,Correct,1,Correct
+13,Coherence,EN,1. Coherent,1,Correct,1,Correct
+14,Coherence,EN,1. Coherent,1,Correct,1,Correct
+15,Coherence,EN,2. Coherent  The two sentences form a coherent story because the first sentence sets the scene (the rain storm approaching the city) and the second sentence explains the consequence of that event (the papers blowing off onto the floor).,2,Correct,2,Correct
+16,Coherence,EN,"2. Coherent  The two sentences form a coherent story because they are related and provide a logical sequence of events. The first sentence explains that Greg is working too hard, which leads to the second sentence where his driving becomes more dangerous due to lack of rest.",2,Correct,2,Correct
+17,Coherence,EN,1. Coherent,1,Correct,1,Correct
+18,Coherence,EN,1. Coherent,1,Correct,1,Correct
+19,Coherence,EN,1. Coherent,1,Correct,1,Correct
+20,Coherence,EN,"2. Coherent  The two sentences form a coherent story because they describe a sequence of events: Cleo brushes against a table with a vase, causing the water to spill onto the expensive carpet.",2,Correct,2,Correct
+21,Coherence,EN,1. Coherent,1,IncorrectCoherent,2,Correct
+22,Coherence,EN,"2. Coherent  The two sentences form a coherent story because they are connected in a logical sequence. The first sentence sets the scene by stating that the lights have been on since last night, and the second sentence explains the reason for the lights being on, which is that he turned on the TV for a weather report.",2,IncorrectCoherent,1,Correct
+23,Coherence,EN,"2. Coherent  The two sentences form a coherent story because they describe a situation where Bob is looking forward to a long holiday and then asks his family doctor to come at once, which implies that he is experiencing some kind of health issue that requires immediate attention.",2,IncorrectCoherent,1,Correct
+24,Coherence,EN,"2. Coherent  The two sentences form a coherent story because they are connected by the event of Sharon's car being wrecked and her being knocked down, which led to her shouting for her mother.",2,IncorrectCoherent,1,Correct
+25,Coherence,EN,1. Incoherent  The two sentences do not form a coherent story because there is no logical connection between Allen having a car accident and his mother worrying about her final exam. The events are unrelated and do not follow a sequence that makes sense in a narrative.,1,Correct,1,Correct
+26,Coherence,EN,"2. Coherent  The two sentences form a coherent story because they are connected by the idea of a little girl needing money. The first sentence describes a situation where a dog runs toward her, and the second sentence shows her action of going to the bank to get a loan. This sequence of events makes sense and follows a logical flow.",2,IncorrectCoherent,1,Correct
+27,Coherence,EN,"2. Coherent  The two sentences form a coherent story because they are connected by the idea of Jane skipping her English class and then getting upset and crying. The first sentence sets up the situation, and the second sentence describes the consequence of her skipping class.",2,IncorrectCoherent,1,Correct
+28,Coherence,EN,1. Coherent,1,IncorrectCoherent,2,Correct
+29,Coherence,EN,2. Incoherent  The two sentences do not form a coherent story because there is no logical connection between Vicky planning her first trip to Europe and a mirror falling down and shattering on the floor. The events are unrelated and do not form a cohesive narrative.,2,Correct,2,Correct
+30,Coherence,EN,1. Coherent,1,IncorrectCoherent,2,Correct
+31,Coherence,EN,1. Coherent,1,IncorrectCoherent,2,Correct
+32,Coherence,EN,1. Coherent,1,IncorrectCoherent,2,Correct
+33,Coherence,EN,"2. Coherent  The two sentences form a coherent story because they are connected by the action of Bill walking home to change his clothes after considering various high-tech careers. The first sentence sets up the context of Bill's interest in high-tech careers, and the second sentence provides a specific action that follows from that interest.",2,IncorrectCoherent,1,Correct
+34,Coherence,EN,"2. Coherent  The two sentences form a coherent story because they both relate to Ed's decision to leave his father's business. The first sentence states that Ed wanted to leave, and the second sentence explains his decision not to go out with his father anymore, which could be a consequence of his decision to leave the business.",2,IncorrectCoherent,1,Correct
+35,Coherence,EN,1. Coherent,1,IncorrectCoherent,2,Correct
+36,Coherence,EN,"2. Coherent  The two sentences form a coherent story because they are related and make sense together. The first sentence tells us that Greg was working too hard and not getting enough rest, and the second sentence explains that he spent the whole day shopping for a present, which could be a result of his lack of rest.",2,IncorrectCoherent,1,Correct
+37,Coherence,EN,"2. Coherent  The two sentences form a coherent story because they are related in time and context. The first sentence states that Ellen was unable to eat breakfast before work, and the second sentence describes an activity (having a heated discussion) that occurred until midnight, which is likely after work hours. This sequence of events makes sense and provides a clear narrative.",2,IncorrectCoherent,1,Correct
+38,Coherence,EN,1. Coherent,1,IncorrectCoherent,2,Correct
+39,Coherence,EN,2. Coherent  The two sentences form a coherent story because they describe a sequence of events: Jerry reads his manuscript and then frantically searches through the medicine cabinet. The actions are connected and make sense in the context of the story.,2,IncorrectCoherent,1,Correct
+40,Coherence,EN,2. Coherent  The two sentences form a coherent story because they are connected by the idea that Cleo's action of brushing against the table with a vase on it led her to decide to study harder to catch up.,2,IncorrectCoherent,1,Correct
+1,Deceits,EN,4. He does not want to offend his mom by not reading the books that she gave him.,4,IncorrectNonLiteralSocialConvention,1,CorrectNonLiteral
+2,Deceits,EN,4. He likes the gift very much.,4,IncorrectLiteral,2,CorrectNonLiteral
+3,Deceits,EN,4. Dan thinks that the dog has knocked over the vase.,4,IncorrectLiteral,3,CorrectNonLiteral
+4,Deceits,EN,3. He is experiencing some severe stomach pain.,3,IncorrectLiteral,2,CorrectNonLiteral
+5,Deceits,EN,4. She is very much fond of goldfish.,4,IncorrectLiteral,2,CorrectNonLiteral
+6,Deceits,EN,3. He does not want Marika to feel bad about her mediocre baking skills.,3,CorrectNonLiteral,3,CorrectNonLiteral
+7,Deceits,EN,3. Sally didn't want to admit that she had overheard her mother and spoiled the surprise.,3,CorrectNonLiteral,3,CorrectNonLiteral
+8,Deceits,EN,1. He did not want to get in trouble with his boss by admitting that he lied to him.,1,CorrectNonLiteral,1,CorrectNonLiteral
+9,Deceits,EN,2. He does not want to show that he is disappointed with the gift so that he doesn't offend his aunt.,2,CorrectNonLiteral,2,CorrectNonLiteral
+10,Deceits,EN,4. Friendship was more important for Taro than a broken remote control car.,4,CorrectNonLiteral,4,CorrectNonLiteral
+11,Deceits,EN,4. He sees how excited Katie is about the haircut and does not want to ruin her good mood.,4,CorrectNonLiteral,4,CorrectNonLiteral
+12,Deceits,EN,4. Lucy did not want Mary to feel awkward at this party.,4,CorrectNonLiteral,4,CorrectNonLiteral
+13,Deceits,EN,4. He wanted to support Mike and not make him even more nervous during public speaking in the future.,4,CorrectNonLiteral,4,CorrectNonLiteral
+14,Deceits,EN,1. She wants to show that she appreciates that Anthony has cleaned the apartment.,1,CorrectNonLiteral,1,CorrectNonLiteral
+15,Deceits,EN,4. She is excited to eat the donuts because she is craving them.,4,IncorrectLiteral,1,CorrectNonLiteral
+16,Deceits,EN,1. She wants to keep a good relationship with Derek and his family.,1,CorrectNonLiteral,1,CorrectNonLiteral
+17,Deceits,EN,3. She values their current relationship and does not want to jeopardize it by discussing her past thoughts.,3,CorrectNonLiteral,3,CorrectNonLiteral
+18,Deceits,EN,2. Wisdom tooth removal was not that painful for Betty after all.,2,IncorrectLiteral,4,CorrectNonLiteral
+19,Deceits,EN,3. Annie had a great time with Mike.,3,IncorrectLiteral,4,CorrectNonLiteral
+20,Deceits,EN,3. She does not want to hurt her friend by criticizing her mother.,3,CorrectNonLiteral,3,CorrectNonLiteral
+1,Humour,EN,"4  The joke is funny because the borrower is trying to borrow the golf clubs instead of the lawnmower, implying that they are planning to play golf instead of mowing the lawn.",4,CorrectNonLiteral,4,CorrectNonLiteral
+2,Humour,EN,"5. ""Medical science has progressed enormously since then.""",5,CorrectNonLiteral,5,CorrectNonLiteral
+3,Humour,EN,"2. Martha said, ""Four pieces, please; I'm on a diet.""",2,CorrectNonLiteral,2,CorrectNonLiteral
+4,Humour,EN,"3. ""I am not sure that glasses will help me see well!""",3,IncorrectStraightforward,5,CorrectNonLiteral
+5,Humour,EN,"1. ""Yes I am. I married the wrong man.""",1,CorrectNonLiteral,1,CorrectNonLiteral
+6,Humour,EN,"2. ""That man is going to slip on this banana peel.""",2,FunnyNonSequitur,3,CorrectNonLiteral
+7,Humour,EN,"4. The tenant replied, ""Great, I'm ready to forget the other half.""",4,CorrectNonLiteral,4,CorrectNonLiteral
+8,Humour,EN,"4. ""My pleasure,"" he said as he tipped his hat to the girl and his toupee slipped off.",4,FunnyNonSequitur,1,CorrectNonLiteral
+9,Humour,EN,"2. ""A lonely guy.""",2,IncorrectStraightforward,4,CorrectNonLiteral
+10,Humour,EN,"4. ""Are you afraid of alligators?""",4,AssociativeNonSequitur,1,CorrectNonLiteral
+11,Humour,EN,"2. ""That is the place I love the most.""",2,IncorrectStraightforward,5,CorrectNonLiteral
+12,Humour,EN,"5. ""Safety is our priority.""",5,IncorrectStraightforward,3,CorrectNonLiteral
+13,Humour,EN,"4. ""His talents will be greatly missed.""",4,IncorrectStraightforward,1,CorrectNonLiteral
+14,Humour,EN,"3. said, ""We are sorry; we didn't know your rules.""",3,IncorrectStraightforward,1,CorrectNonLiteral
+15,Humour,EN,5. Then the young man chased the manager around with the broom.,5,FunnyNonSequitur,4,CorrectNonLiteral
+16,Humour,EN,"4. ""I have seen that.""",4,IncorrectStraightforward,2,CorrectNonLiteral
+17,Humour,EN,"5. ""Yes, he's always striking trees.""",5,CorrectNonLiteral,5,CorrectNonLiteral
+18,Humour,EN,5. The guy slipped on a banana peel and split his pants.,5,FunnyNonSequitur,2,CorrectNonLiteral
+19,Humour,EN,"4. ""I'm running out of gas.""",4,NeutralNonSequitur,1,CorrectNonLiteral
+20,Humour,EN,"4. ""How do you know you are the strongest here?""",4,IncorrectStraightforward,1,CorrectNonLiteral
+1,IndirectSpeech,EN,4. He is unhappy that his shirt is wrinkled.,4,IncorrectLiteral,3,CorrectNonLiteral
+2,IndirectSpeech,EN,2. He has some doubts whether Cindy should be painting.,2,IncorrectLiteral,1,CorrectNonLiteral
+3,IndirectSpeech,EN,4. Cindy's brother creates a lot of mess.,4,IncorrectLiteral,3,CorrectNonLiteral
+4,IndirectSpeech,EN,2. She wishes that he stopped telling her about the movie.,2,CorrectNonLiteral,2,CorrectNonLiteral
+5,IndirectSpeech,EN,2. Cindy should stop teasing him if she wants to be his friend.,2,CorrectNonLiteral,2,CorrectNonLiteral
+6,IndirectSpeech,EN,4. It was not his fault.,4,CorrectNonLiteral,4,CorrectNonLiteral
+7,IndirectSpeech,EN,4. He wants Kate to give him some cookies.,4,CorrectNonLiteral,4,CorrectNonLiteral
+8,IndirectSpeech,EN,2. She wants him to stop talking.,2,CorrectNonLiteral,2,CorrectNonLiteral
+9,IndirectSpeech,EN,2. He wants the girls to be quiet.,2,CorrectNonLiteral,2,CorrectNonLiteral
+10,IndirectSpeech,EN,1. Matt should look around where he is walking.,1,CorrectNonLiteral,1,CorrectNonLiteral
+11,IndirectSpeech,EN,2. He wants her to tell him the house number.,2,CorrectNonLiteral,2,CorrectNonLiteral
+12,IndirectSpeech,EN,3. She wants to know whether he has time and a desire to water the lawn.,3,CorrectNonLiteral,3,CorrectNonLiteral
+13,IndirectSpeech,EN,3. He wants him to move the ladder.,3,CorrectNonLiteral,3,CorrectNonLiteral
+14,IndirectSpeech,EN,1. He wants to know their opinion.,1,IncorrectLiteral,2,CorrectNonLiteral
+15,IndirectSpeech,EN,2. She suspects that someone is standing at their door.,2,IncorrectLiteral,4,CorrectNonLiteral
+16,IndirectSpeech,EN,3. He wants to describe his physical state to Adam.,3,IncorrectLiteral,2,CorrectNonLiteral
+17,IndirectSpeech,EN,2. He wants Mark to get a bottle opener.,2,CorrectNonLiteral,2,CorrectNonLiteral
+18,IndirectSpeech,EN,4. She wants Alex to clean the mess.,4,CorrectNonLiteral,4,CorrectNonLiteral
+19,IndirectSpeech,EN,3. She wants Nate to take the garbage out.,3,CorrectNonLiteral,3,CorrectNonLiteral
+20,IndirectSpeech,EN,4. He wants Peter to close the screen door.,4,CorrectNonLiteral,4,CorrectNonLiteral
+1,Irony,EN,3. Lara needs to get a dress of a shorter length.,3,CorrectNonLiteral,3,CorrectNonLiteral
+2,Irony,EN,1. Shane was not paying attention when Christian was talking.,1,CorrectNonLiteral,1,CorrectNonLiteral
+3,Irony,EN,"4. Phil is a great basketball player.  Andrew complimented Phil's ability to block the shot, implying that Phil is a skilled basketball player.",4,IncorrectLiteral,1,CorrectNonLiteral
+4,Irony,EN,4. Patrick is careless.,4,CorrectNonLiteral,4,CorrectNonLiteral
+5,Irony,EN,4. Tom's idea to go to the beach was awful.,4,CorrectNonLiteral,4,CorrectNonLiteral
+6,Irony,EN,1. He does not want to listen to his kids' arguments.,1,CorrectNonLiteral,1,CorrectNonLiteral
+7,Irony,EN,3. The game was outstanding.,3,IncorrectLiteral,4,CorrectNonLiteral
+8,Irony,EN,3. Mark isn't a good player.,3,CorrectNonLiteral,3,CorrectNonLiteral
+9,Irony,EN,2. Tom's room is still messy.,2,CorrectNonLiteral,2,CorrectNonLiteral
+10,Irony,EN,4. He is happy that Callie made it to the party.,4,IncorrectLiteral,1,CorrectNonLiteral
+11,Irony,EN,4. The student is smart.,4,IncorrectLiteral,1,CorrectNonLiteral
+12,Irony,EN,"2. It is too hot.  Melissa's statement ""The heat is really on in here"" is a colloquial way of saying that the temperature is extremely high, which would be the case in a cold environment where people are exhaling visible breath. This suggests that Melissa is trying to convey that the temperature inside the nightclub is too hot.",2,IncorrectLiteral,1,CorrectNonLiteral
+13,Irony,EN,1. He is happy with his work.,1,IncorrectLiteral,2,CorrectNonLiteral
+14,Irony,EN,3. He is disappointed with the job offer.,3,CorrectNonLiteral,3,CorrectNonLiteral
+15,Irony,EN,1. Babysitting was an unpleasant experience.,1,IncorrectLiteral,4,CorrectNonLiteral
+16,Irony,EN,3. Laura had a dull experience.,3,CorrectNonLiteral,3,CorrectNonLiteral
+17,Irony,EN,"3. Their colleague is quite unsociable.  Tom's comment implies that the colleague is not actively engaging with others, as he describes her as ""standing alone"" and not participating in the social activity of the party. This suggests that she is not the life of the party, which is why Tom points out her lack of social interaction.",3,CorrectNonLiteral,3,CorrectNonLiteral
+18,Irony,EN,2. It is an unfriendly community.,2,CorrectNonLiteral,2,CorrectNonLiteral
+19,Irony,EN,3. Juanita is always so slow.,3,CorrectNonLiteral,3,CorrectNonLiteral
+20,Irony,EN,4. Mark's speech was on a captivating topic.,4,IncorrectAssociate,1,CorrectNonLiteral
+21,Irony,EN,1. Tracy is not a good dancer.,1,CorrectNonLiteral,1,CorrectNonLiteral
+22,Irony,EN,3. John is not a good runner.,3,IncorrectLiteral,1,CorrectNonLiteral
+23,Irony,EN,2. He is happy with the new gardener.,2,IncorrectLiteral,3,CorrectNonLiteral
+24,Irony,EN,"4. Tilly is unready for the exam.  The brother's comment ""I see your revision is going well"" is likely a sarcastic or mocking remark, implying that Tilly is not prepared for the exam. This is because she has not read the course texts, which suggests she is unready. The other options are not supported by the given information.",4,CorrectNonLiteral,4,CorrectNonLiteral
+25,Irony,EN,2. He liked her choice of dress.,2,IncorrectLiteral,3,CorrectNonLiteral
+1,Maxims,EN,2. He is excited about the upcoming trip to Japan and does not want to talk about anything else.,2,IncorrectLiteral,4,CorrectNonLiteral
+2,Maxims,EN,3. Alex is proud of the painting job that he did.,3,IncorrectLiteral,1,CorrectNonLiteral
+3,Maxims,EN,1. She does not want to discuss the topic that Leslie has raised.,1,CorrectNonLiteral,1,CorrectNonLiteral
+4,Maxims,EN,3. He is thankful for her offer of beer and chips.,3,IncorrectLiteral,2,CorrectNonLiteral
+5,Maxims,EN,4. Mark's opinion of Jane as a financial manager is very high.,4,IncorrectLiteral,3,CorrectNonLiteral
+6,Maxims,EN,4. Lucy's mom does not know where exactly Vincent lives.,4,CorrectNonLiteral,4,CorrectNonLiteral
+7,Maxims,EN,4. The wedding is not about food.,4,IncorrectAssociate,3,CorrectNonLiteral
+8,Maxims,EN,3. Mary is proud of the new cups that she got from Ken for her birthday.,3,IncorrectAssociate,1,CorrectNonLiteral
+9,Maxims,EN,3. Cindy does not know what type of shoes she wants to buy.,3,CorrectNonLiteral,3,CorrectNonLiteral
+10,Maxims,EN,1. He has been doing lots of schoolwork at school.,1,IncorrectLiteral,2,CorrectNonLiteral
+11,Maxims,EN,4. Mark's wife has been doing some scientific experiments instead of cooking.,4,IncorrectLiteral,3,CorrectNonLiteral
+12,Maxims,EN,3. Marcie thinks that her husband's expectations about breakfast are too high.,3,CorrectNonLiteral,3,CorrectNonLiteral
+13,Maxims,EN,3. Paul thinks that the performance by the actress was very moving.,3,IncorrectLiteral,1,CorrectNonLiteral
+14,Maxims,EN,3. Melissa thinks that statistical information is useless in this debate.,3,CorrectNonLiteral,3,CorrectNonLiteral
+15,Maxims,EN,4. He thinks that people who ride subways have many bad habits.,4,IncorrectNonLiteral,2,CorrectNonLiteral
+16,Maxims,EN,4. Freddie can give Berta some money that he will get for his space expedition.,4,IncorrectLiteral,2,CorrectNonLiteral
+17,Maxims,EN,3. Katy doubts that Mr. Smith is a smart individual.,3,CorrectNonLiteral,3,CorrectNonLiteral
+18,Maxims,EN,4. Samantha's dad is impressed with John's innocence.,4,IncorrectAssociate,3,CorrectNonLiteral
+19,Maxims,EN,4. Bianka does not want Lenny to know her address.,4,CorrectNonLiteral,4,CorrectNonLiteral
+20,Maxims,EN,4. Kelly plans to devote a lot of time to reading this summer.,4,CorrectNonLiteral,4,CorrectNonLiteral
+1,Metaphor,EN,5. The town is a chimney.,5,IncorrectLiteral,4,CorrectNonLiteral
+2,Metaphor,EN,1. The baby in his wife's womb is the size of an egg.,1,IncorrectPlausibleLiteral,5,CorrectNonLiteral
+3,Metaphor,EN,2. They buy stocks hoping for future profit.,2,CorrectNonLiteral,2,CorrectNonLiteral
+4,Metaphor,EN,2. His girlfriend wore clothes made of polyester.,2,IncorrectPlausibleLiteral,5,CorrectNonLiteral
+5,Metaphor,EN,2. Their kids always stick together.,2,CorrectNonLiteral,2,CorrectNonLiteral
+6,Metaphor,EN,3. The lady wears some jewelry designed to look like stars.,3,IncorrectPlausibleLiteral,4,CorrectNonLiteral
+7,Metaphor,EN,2. The model stood out at the fashion show.,2,CorrectNonLiteral,2,CorrectNonLiteral
+8,Metaphor,EN,3. Mary and her family are related to the queen.,3,IncorrectPlausibleLiteral,4,CorrectNonLiteral
+9,Metaphor,EN,1. It was a very romantic night.,1,CorrectNonLiteral,1,CorrectNonLiteral
+10,Metaphor,EN,5. Jessica finished her talk successfully.,5,CorrectNonLiteral,5,CorrectNonLiteral
+11,Metaphor,EN,1. She is not paying attention when walking and often steps on her little brothers by accident.,1,IncorrectLiteral,2,CorrectNonLiteral
+12,Metaphor,EN,5. The newly hired person is good at manipulating many things at once.,5,CorrectNonLiteral,5,CorrectNonLiteral
+13,Metaphor,EN,4. The store was complete chaos.,4,CorrectNonLiteral,4,CorrectNonLiteral
+14,Metaphor,EN,5. The dancers portrayed butterflies in the show.,5,IncorrectPlausibleLiteral,4,CorrectNonLiteral
+15,Metaphor,EN,1. Sally does not show any emotions.,1,CorrectNonLiteral,1,CorrectNonLiteral
+16,Metaphor,EN,5. There is a sheep living next to them.,5,IncorrectLiteral,4,CorrectNonLiteral
+17,Metaphor,EN,1. The book is in bad shape.,1,IncorrectPlausibleLiteral,4,CorrectNonLiteral
+18,Metaphor,EN,1. Sam has too many things to take care of.,1,CorrectNonLiteral,1,CorrectNonLiteral
+19,Metaphor,EN,1. The new sales manager is very inexperienced.,1,CorrectNonLiteral,1,CorrectNonLiteral
+20,Metaphor,EN,1. They are meant to be together.,1,CorrectNonLiteral,1,CorrectNonLiteral

@@ -1,0 +1,61 @@
+item_id,task,language,raw_output,parsed_prediction,parsed_prediction_type,gold_label,gold_label_type,probe_response
+1,Humour,ZH,5,5,AssociativeNonSequitur,2,CorrectNonLiteral,5
+2,Humour,ZH,5,5,CorrectNonLiteral,5,CorrectNonLiteral,5
+3,Humour,ZH,5,5,FunnyNonSequitur,2,CorrectNonLiteral,5
+4,Humour,ZH,4,4,IncorrectStraightforward,1,CorrectNonLiteral,4
+5,Humour,ZH,4. 他这是在给你写相亲简介呢！,4,FunnyNonSequitur,5,CorrectNonLiteral,4. 他这是在给你写相亲简介呢！
+6,Humour,ZH,5,5,NeutralNonSequitur,2,CorrectNonLiteral,5
+7,Humour,ZH,4,4,AssociativeNonSequitur,3,CorrectNonLiteral,4
+8,Humour,ZH,2. 小丫头片子？你也太不尊重我偶像了。,2,IncorrectStraightforward,3,CorrectNonLiteral,2. 小丫头片子？你也太不尊重我偶像了。
+9,Humour,ZH,2,2,FunnyNonSequitur,5,CorrectNonLiteral,2
+10,Humour,ZH,4,4,FunnyNonSequitur,3,CorrectNonLiteral,4
+11,Humour,ZH,4,4,AssociativeNonSequitur,2,CorrectNonLiteral,4
+12,Humour,ZH,1. 最近条件有限，将就一下。,1,IncorrectStraightforward,3,CorrectNonLiteral,1. 最近条件有限，将就一下。
+13,Humour,ZH,5,5,AssociativeNonSequitur,2,CorrectNonLiteral,5
+14,Humour,ZH,4,4,CorrectNonLiteral,4,CorrectNonLiteral,4
+15,Humour,ZH,2,2,NeutralNonSequitur,4,CorrectNonLiteral,2
+16,Humour,ZH,3. 她什么时候成了人家掌门？做梦呢吧。,3,IncorrectStraightforward,5,CorrectNonLiteral,3. 她什么时候成了人家掌门？做梦呢吧。
+17,Humour,ZH,1. 说你这个人啊，脑子少根弦。,1,IncorrectStraightforward,2,CorrectNonLiteral,1. 说你这个人啊，脑子少根弦。
+18,Humour,ZH,5,5,IncorrectStraightforward,4,CorrectNonLiteral,5
+19,Humour,ZH,5,5,FunnyNonSequitur,4,CorrectNonLiteral,5
+20,Humour,ZH,1,1,FunnyNonSequitur,5,CorrectNonLiteral,1
+1,Irony,ZH,4,4,CorrectNonLiteral,4,CorrectNonLiteral,4
+2,Irony,ZH,2,2,IncorrectLiteral,4,CorrectNonLiteral,2
+3,Irony,ZH,3,3,IncorrectLiteral,1,CorrectNonLiteral,3
+4,Irony,ZH,1,1,CorrectNonLiteral,1,CorrectNonLiteral,1
+5,Irony,ZH,1,1,IncorrectLiteral,4,CorrectNonLiteral,1
+6,Irony,ZH,2,2,IncorrectLiteral,3,CorrectNonLiteral,2
+7,Irony,ZH,2,2,IncorrectLiteral,4,CorrectNonLiteral,2
+8,Irony,ZH,4,4,IncorrectLiteral,3,CorrectNonLiteral,4
+9,Irony,ZH,3,3,CorrectNonLiteral,3,CorrectNonLiteral,3
+10,Irony,ZH,3,3,IncorrectLiteral,1,CorrectNonLiteral,3
+11,Irony,ZH,2,2,CorrectNonLiteral,2,CorrectNonLiteral,2
+12,Irony,ZH,1,1,CorrectNonLiteral,1,CorrectNonLiteral,1
+13,Irony,ZH,4,4,IncorrectAssociate,1,CorrectNonLiteral,4
+14,Irony,ZH,3,3,CorrectNonLiteral,3,CorrectNonLiteral,3
+15,Irony,ZH,2,2,IncorrectLiteral,1,CorrectNonLiteral,2
+16,Irony,ZH,2,2,CorrectNonLiteral,2,CorrectNonLiteral,2
+17,Irony,ZH,3,3,IncorrectLiteral,2,CorrectNonLiteral,3
+18,Irony,ZH,2,2,CorrectNonLiteral,2,CorrectNonLiteral,2
+19,Irony,ZH,4,4,IncorrectLiteral,2,CorrectNonLiteral,4
+20,Irony,ZH,2,2,IncorrectLiteral,4,CorrectNonLiteral,2
+1,Maxims,ZH,3,3,CorrectNonLiteral,3,CorrectNonLiteral,3
+2,Maxims,ZH,4,4,CorrectNonLiteral,4,CorrectNonLiteral,4
+3,Maxims,ZH,3,3,CorrectNonLiteral,3,CorrectNonLiteral,3
+4,Maxims,ZH,1,1,IncorrectNonLiteral,2,CorrectNonLiteral,1
+5,Maxims,ZH,3,3,CorrectNonLiteral,3,CorrectNonLiteral,3
+6,Maxims,ZH,1,1,CorrectNonLiteral,1,CorrectNonLiteral,1
+7,Maxims,ZH,3,3,CorrectNonLiteral,3,CorrectNonLiteral,3
+8,Maxims,ZH,2,2,IncorrectNonLiteral,1,CorrectNonLiteral,2
+9,Maxims,ZH,1,1,IncorrectNonLiteral,3,CorrectNonLiteral,1
+10,Maxims,ZH,1,1,IncorrectLiteral,2,CorrectNonLiteral,1
+11,Maxims,ZH,2,2,IncorrectLiteral,3,CorrectNonLiteral,2
+12,Maxims,ZH,3,3,CorrectNonLiteral,3,CorrectNonLiteral,3
+13,Maxims,ZH,1,1,IncorrectLiteral,3,CorrectNonLiteral,1
+14,Maxims,ZH,1,1,IncorrectAssociate,2,CorrectNonLiteral,1
+15,Maxims,ZH,3,3,IncorrectAssociate,1,CorrectNonLiteral,3
+16,Maxims,ZH,4,4,IncorrectNonLiteral,3,CorrectNonLiteral,4
+17,Maxims,ZH,1,1,IncorrectAssociate,2,CorrectNonLiteral,1
+18,Maxims,ZH,2,2,CorrectNonLiteral,2,CorrectNonLiteral,2
+19,Maxims,ZH,2,2,IncorrectNonLiteral,4,CorrectNonLiteral,2
+20,Maxims,ZH,1,1,IncorrectLiteral,2,CorrectNonLiteral,1
