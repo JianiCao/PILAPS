@@ -3,7 +3,7 @@
 ## Disclaimer
 This repository contains experimental software and data, published for the sole purpose of providing additional background on the accompanying paper.
 
-📄 [Paper](https://arxiv.org/abs/XXXX.XXXXX)
+📄 [Paper](https://arxiv.org/abs/2611.25459)
 
 ><details>
 ><summary> <b>Abstract</b> </summary>
@@ -72,9 +72,9 @@ If you find this repository useful, please cite the following paper:
   title     = {PILAPS: A Bilingual Benchmark for Evaluating Pragmatic Inference across Phenomena and Settings},
   author    = {Cao, Jiani and Korhonen, Anna and Liu, Chen Cecilia},
   year      = {2026},
-  eprint    = { },
+  eprint    = {2611.25459},
   archivePrefix={arXiv},
-  primaryClass={cs.LG},
-  url={https://arxiv.org/abs/ },
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/2611.25459},
 }
 ```
