@@ -68,13 +68,13 @@ PROMPT_VERSION=[0, 1, 2]
 If you find this repository useful, please cite the following paper:
 
 ```
-@article{cao2026pilaps,
-  title     = {PILAPS: A Bilingual Benchmark for Evaluating Pragmatic Inference across Phenomena and Settings},
-  author    = {Cao, Jiani and Korhonen, Anna and Liu, Chen Cecilia},
-  year      = {2026},
-  eprint    = {2611.25459},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL},
-  url={https://arxiv.org/abs/2611.25459},
+@misc{cao2026pilaps,
+      title={PILAPS: A Bilingual Benchmark for Evaluating Pragmatic Inference across Phenomena and Settings}, 
+      author={Jiani Cao and Anna Korhonen and Chen Cecilia Liu},
+      year={2026},
+      eprint={2611.25459},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2611.25459}, 
 }
 ```
